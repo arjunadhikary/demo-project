@@ -16,7 +16,7 @@ to the frontend in form of api
 
 ## Screenshots
 
-![App Screenshot](https://github.com/arjunadhikary/demo-project/tree/main/public/assets/iamges/demo.jpg/)
+![App Screenshot](https://github.com/arjunadhikary/demo-project/blob/main/src/assets/images/demo.jpg)
 
 ## API Reference
 
