@@ -14,6 +14,10 @@ to the frontend in form of api
 * Used  `debounce` to minimize the api call
 * Generate Random 9 company list and server to the client
 
+## Screenshots
+
+![App Screenshot](https://github.com/arjunadhikary/demo-project/tree/main/public/assets/iamges/demo.jpg/)
+
 ## API Reference
 
 #### Get all items
