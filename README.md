@@ -4,11 +4,6 @@
 This is a simple project to demonstrate the web scraping data provided
 to the frontend in form of api
 
-# Dividend Capacity
-
-This is a simple project to demonstrate the web scraping data provided
-to the frontend in form of api
-
 ## Optimizations
 
 * Used  `debounce` to minimize the api call
